@@ -1,0 +1,9 @@
+The purpose of this project is to understand how to:   
+* create a Python package   
+* create a command interpreter using the `cmd` module   
+* serialize and deserialize a Class   
+* write and read a JSON file   
+* manage `datetime`   
+* use `*args` and `**kwargs`   
+* handle named arguments in a function
+
